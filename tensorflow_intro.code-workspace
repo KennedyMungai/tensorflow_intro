@@ -22,7 +22,9 @@
 			"nunique",
 			"ranarr",
 			"randn",
-			"Reintro"
+			"Reintro",
+			"xlabel",
+			"ylabel"
 		]
 	}
 }
