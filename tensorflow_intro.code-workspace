@@ -24,7 +24,9 @@
 			"randn",
 			"Reintro",
 			"xlabel",
-			"ylabel"
+			"xlim",
+			"ylabel",
+			"ylim"
 		]
 	}
 }
