@@ -7,6 +7,8 @@
 	"settings": {
 		"cSpell.words": [
 			"arange",
+			"argmax",
+			"argmin",
 			"dtype",
 			"mylist",
 			"Numpy",
