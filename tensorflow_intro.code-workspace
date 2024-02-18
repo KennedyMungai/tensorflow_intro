@@ -14,6 +14,8 @@
 			"dtype",
 			"dtypes",
 			"fillna",
+			"idxmax",
+			"idxmin",
 			"iloc",
 			"mylist",
 			"Numpy",
