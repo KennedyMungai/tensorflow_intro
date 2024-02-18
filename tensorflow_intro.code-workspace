@@ -9,7 +9,8 @@
 			"arange",
 			"dtype",
 			"mylist",
-			"Numpy"
+			"Numpy",
+			"randn"
 		]
 	}
 }
