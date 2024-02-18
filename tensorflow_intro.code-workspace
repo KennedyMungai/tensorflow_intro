@@ -17,6 +17,7 @@
 			"idxmax",
 			"idxmin",
 			"iloc",
+			"markersize",
 			"mylist",
 			"Numpy",
 			"nunique",
