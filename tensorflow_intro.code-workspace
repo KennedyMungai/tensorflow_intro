@@ -16,6 +16,7 @@
 			"dropna",
 			"dtype",
 			"dtypes",
+			"figsize",
 			"fillna",
 			"idxmax",
 			"idxmin",
