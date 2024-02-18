@@ -10,6 +10,7 @@
 			"argmax",
 			"argmin",
 			"Dataframe",
+			"distplot",
 			"dropna",
 			"dtype",
 			"dtypes",
