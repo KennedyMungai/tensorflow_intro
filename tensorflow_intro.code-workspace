@@ -9,6 +9,7 @@
 			"arange",
 			"argmax",
 			"argmin",
+			"boxplot",
 			"countplot",
 			"darkgrid",
 			"Dataframe",
