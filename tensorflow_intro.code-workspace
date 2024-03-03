@@ -33,6 +33,7 @@
 			"Numpy",
 			"nunique",
 			"pairplot",
+			"perc",
 			"ranarr",
 			"randn",
 			"Reintro",
