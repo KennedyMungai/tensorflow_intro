@@ -36,6 +36,7 @@
 			"randn",
 			"Reintro",
 			"relu",
+			"rmsprop",
 			"scatterplot",
 			"Seaborn",
 			"thalach",
