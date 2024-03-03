@@ -21,6 +21,7 @@
 			"dtypes",
 			"figsize",
 			"fillna",
+			"histplot",
 			"idxmax",
 			"idxmin",
 			"iloc",
