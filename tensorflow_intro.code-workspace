@@ -19,6 +19,7 @@
 			"dropna",
 			"dtype",
 			"dtypes",
+			"edgecolor",
 			"figsize",
 			"fillna",
 			"histplot",
