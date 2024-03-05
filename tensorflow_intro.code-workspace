@@ -46,6 +46,7 @@
 			"scatterplot",
 			"Seaborn",
 			"sqft",
+			"subgrade",
 			"thalach",
 			"trestbps",
 			"xlabel",
