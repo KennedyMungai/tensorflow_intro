@@ -12,6 +12,7 @@
 			"boxplot",
 			"chol",
 			"countplot",
+			"crossentropy",
 			"darkgrid",
 			"Dataframe",
 			"displot",
