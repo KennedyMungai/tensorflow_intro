@@ -40,6 +40,7 @@
 			"randn",
 			"Reintro",
 			"relu",
+			"revol",
 			"rmsprop",
 			"scatterplot",
 			"Seaborn",
