@@ -29,6 +29,7 @@
 			"idxmax",
 			"idxmin",
 			"iloc",
+			"imshow",
 			"kdeplot",
 			"Keras",
 			"markersize",
