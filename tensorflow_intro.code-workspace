@@ -12,6 +12,7 @@
 			"argmin",
 			"boxplot",
 			"chol",
+			"cmap",
 			"coolwarm",
 			"countplot",
 			"crossentropy",
